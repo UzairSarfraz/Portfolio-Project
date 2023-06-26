@@ -60,7 +60,7 @@
         font-size: 1rem;
     }
     footer nav {
-        height: fit-context;
+        height: fit-content;
         margin-bottom: 2rem;
     }
 
