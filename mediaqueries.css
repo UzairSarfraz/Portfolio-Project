@@ -87,7 +87,7 @@
         font-size: 1.5rem;
     }
 
-    .nav-list {
+    .nav-link {
         flex-direction: column;
         gap: 0.5rem;
         text-align: center;
