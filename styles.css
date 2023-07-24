@@ -159,7 +159,7 @@ section {
     display: flex;
     justify-content: center;
     gap: 5rem;
-    height: 80vh;
+    height: auto;
 
 }
 
@@ -373,7 +373,7 @@ article .icon {
     display: flex;
     justify-self: center;
     flex-direction: column;
-    height: 70vh;
+    height: auto;
 }
 
 .contact-info-upper-container {
