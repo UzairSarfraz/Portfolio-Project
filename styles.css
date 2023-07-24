@@ -293,6 +293,9 @@ section {
     border-color: rgb(163, 163, 163);
     text-align: center;
 }
+.about-text{
+    margin: 10px;
+} 
 
 .section-container{
     gap: 4rem;
